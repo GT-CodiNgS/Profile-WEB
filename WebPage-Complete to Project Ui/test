@@ -1,0 +1,20 @@
+<div>
+        <img src="asserts/project/undraw_maker_launch_crhe.png" alt="">
+    </div>
+
+
+
+
+    section>div:nth-child(3){
+        width: 50%;
+        height: 50%;
+        border: 2px solid #53e22b;
+        position: absolute;
+        bottom: 50px;
+        left: 50px;
+
+    }
+    section>div:nth-child(3)>img{
+        width: 100%;
+        height:100% ;
+    }
